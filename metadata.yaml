@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1292
     wikipedia: http://en.wikipedia.org/wiki/Benjamin_Disraeli,_1st_Earl_of_Beaconsfield
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20008#The-Young-Duke
 gutenberg_issued: '2006-12-03'
 gutenberg_type: Text
 identifiers:
